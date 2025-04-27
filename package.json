@@ -1,0 +1,33 @@
+{
+  "name": "leran",
+  "version": "1.0.0",
+  "description": "V14 Slash Prefix Boş Altyapı",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "slash-commands",
+    "prefix-commands",
+    "framework"
+  ],
+  "author": "Leran",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.5",
+    "@discordjs/collection": "^1.5.3",
+    "@discordjs/rest": "^2.0.1",
+    "discord.js": "^14.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": ">=18.20.7"
+  }
+}
