@@ -34,7 +34,7 @@ Discord.js v14 ile oluşturulmuş, hem slash hem de prefix komutlarını destekl
    ```
 4. Botu başlatın:
    ```bash
-   node src/index.js
+   node index.js
    ```
 
 ## Yapılandırma
